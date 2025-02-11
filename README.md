@@ -43,4 +43,4 @@
     <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
 </a>
 
-[![manniL Nuxter profile](https://nuxters.nuxt.com/card/manniL/og.png)](https://nuxters.nuxt.com/abdallah)
+[![manniL Nuxter profile](https://nuxters.nuxt.com/card/abdallah/og.png)](https://nuxters.nuxt.com/abdallah)
