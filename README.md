@@ -44,5 +44,4 @@
 </a>
 
 
-[![abdallah Nuxter profile](https://nuxters.nuxt.com/card/abdallah/og.png)](https://nuxters.nuxt.com/abdallah)
 
