@@ -42,3 +42,6 @@
 <a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
 </a>
+
+
+[![manniL Nuxter profile](https://nuxters.nuxt.com/card/manniL/og.png)](https://nuxters.nuxt.com/manniL)
