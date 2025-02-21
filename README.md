@@ -14,7 +14,7 @@
 - 🏢 I'm a Software Engineer and Front End Developer and CS Student at Mansoura University
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, VueJS, HTML and CSS, or anything related to web development.
-- 👨‍💻 Check out my portfolio at https://abdallah-mohamed360.netlify.app/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at https://abdalla-mohamed.vercel.app/ to see some of the projects I've worked on.
 
 
 ### Connect with Me :
