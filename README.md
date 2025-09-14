@@ -1,22 +1,22 @@
-<!-- Futuristic Banner -->
+<!-- 🔥 Futuristic Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=🚀%20Abdallah%20Mohamed%20🚀&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+  <img src="https://i.ibb.co/0n0xkTq/Glitch-Banner.gif" width="100%" alt="Glitch Banner"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=F72C7E&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Abdallah+Mohamed;💻+Front-End+Developer;🎓+CS+Student+%40+Mansoura+University;⚡+Vue+%7C+JS+%7C+CSS+Wizard;🚀+Always+Building+Cool+Stuff" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=🚀+Hey+There!+I'm+Abdallah+Mohamed;💻+Front-End+Developer;🎓+CS+Student+%40+Mansoura+University;⚡+Vue+%7C+JS+%7C+CSS+Wizard;🌌+Building+Futuristic+Web+Experiences" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="250"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me  
-🔥 Front-End Developer & CS Student who loves building **beautiful UIs** and **cool web apps**.  
-🚀 Passionate about **VueJS, JavaScript, CSS animations, and UI frameworks**.  
-🎯 Always learning and pushing the limits of web tech.  
+🔥 Front-End Developer & CS Student who loves building **beautiful UIs** and **futuristic web apps**.  
+🚀 Passionate about **VueJS, JavaScript, animations, and UI/UX magic**.  
+🎯 Always learning, experimenting, and pushing the limits of web tech.  
 
 ---
 
@@ -29,9 +29,9 @@
 
 ---
 
-### 🛠 Tech Stack (Advanced Mode)
+### 🛠 Tech Stack (Glowing Grid)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,sass,vue,nuxt,vuetify,tailwind,git,github,vscode,figma&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,sass,vue,nuxt,vuetify,tailwind,git,github,vscode,figma&theme=dark" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 
 ### 📈 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousefdergham&theme=dracula&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousefdergham&theme=react-dark&bg_color=0d1117&color=00fff7&line=f75c7e&point=ffffff&hide_border=true"/>
 </p>
 
 ---
@@ -61,19 +61,19 @@
 
 ### ⚡ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
 
 ### 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge&color=red"/>
+  <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge&color=00FFF7"/>
 </p>
 
 ---
 
-<!-- Footer Banner -->
+<!-- 🌊 Futuristic Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Thanks+for+visiting!&animation=twinkling&fontColor=fff&fontAlign=50&fontAlignY=30"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=✨+Thanks+for+Visiting!+✨&animation=twinkling&fontColor=fff&fontAlign=50&fontAlignY=40"/>
 </p>
