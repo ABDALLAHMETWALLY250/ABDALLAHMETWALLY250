@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Futuristic Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/0n0xkTq/Glitch-Banner.gif" width="100%" alt="Glitch Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=🚀%20Abdallah%20Mohamed%20🚀&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </p>
 
 <h1 align="center">
@@ -29,7 +29,7 @@
 
 ---
 
-### 🛠 Tech Stack (Crazy Mode)
+### 🛠 Tech Stack (Advanced Mode)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,sass,vue,nuxt,vuetify,tailwind,git,github,vscode,figma&theme=light"/>
 </p>
@@ -73,6 +73,7 @@
 
 ---
 
+<!-- Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Thanks+for+visiting!&animation=twinkling&fontColor=fff&fontAlign=50&fontAlignY=30"/>
 </p>
