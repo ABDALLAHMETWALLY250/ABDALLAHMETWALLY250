@@ -46,13 +46,6 @@
 
 ---
 
-### 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallah-mohamed&theme=react-dark&bg_color=0d1117&color=00fff7&line=f75c7e&point=ffffff&hide_border=true"/>
-</p>
-
----
-
 ### 🎶 Now Playing on Spotify  
 <p align="center">
   <a href="https://open.spotify.com/user/">
