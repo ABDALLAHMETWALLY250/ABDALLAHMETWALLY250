@@ -36,23 +36,6 @@
 
 ---
 
-### 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousefdergham&show_icons=true&theme=radical&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefdergham&theme=radical&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdergham&layout=compact&theme=radical" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yousefdergham&theme=radical&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
@@ -79,13 +62,6 @@
 ### ⚡ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
-### 😂 Random Meme
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="400"/>
 </p>
 
 ---
