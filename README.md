@@ -57,7 +57,7 @@
 
 ### ⚡ Random Dev Quote
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdallah-mohamed&style=for-the-badge&color=00FFF7"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
