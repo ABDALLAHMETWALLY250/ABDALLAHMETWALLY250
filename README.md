@@ -51,14 +51,7 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
----
 
-### 🎶 Spotify (3D Mode)  
-<p align="center">
-  <a href="https://open.spotify.com/user/">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00f7ff&bar_color_cover=true" alt="Spotify Now Playing" width="450"/>
-  </a>
-</p>
 
 ---
 
