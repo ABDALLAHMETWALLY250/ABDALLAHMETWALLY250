@@ -1,11 +1,14 @@
-<!-- 🔥 Futuristic Banner -->
+<!-- 🚀 Futuristic Glitch Banner -->
 <p align="center">
   <img src="https://i.ibb.co/0n0xkTq/Glitch-Banner.gif" width="100%" alt="Glitch Banner"/>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=🚀+Hey+There!+I'm+Abdallah+Mohamed;💻+Front-End+Developer;🎓+CS+Student+%40+Mansoura+University;⚡+Vue+%7C+JS+%7C+CSS+Wizard;🌌+Building+Futuristic+Web+Experiences" alt="Typing SVG"/>
-</h1>
+<!-- 🖋 Typing SVG Intro -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=💻+Front-End+Developer;🎓+CS+Student+%40+Mansoura+University;🚀+Always+Learning+New+Things;⚡+Vue+%7C+JS+%7C+CSS+Wizard" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="250"/>
