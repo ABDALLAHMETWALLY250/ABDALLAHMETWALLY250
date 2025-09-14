@@ -1,4 +1,4 @@
-<!-- 🚀 Neon Futuristic Banner -->
+<!-- 🚀 Futuristic Glitch Banner -->
 <p align="center">
   <img src="https://i.ibb.co/0n0xkTq/Glitch-Banner.gif" width="100%" alt="Glitch Banner"/>
 </p>
@@ -6,21 +6,20 @@
 <!-- 🖋 Typing SVG Intro -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=💻+Front-End+Developer;🎓+CS+Student+%40+Mansoura+University;⚡+Vue+%7C+JS+%7C+CSS+Enthusiast;🚀+Always+Learning+%26+Building;🌐+Futuristic+UI%2FUX+Lover" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=💻+Front-End+Developer;🎓+CS+Student+%40+Mansoura+University;🚀+Always+Learning+New+Things;⚡+Vue+%7C+JS+%7C+CSS+Wizard;🌐+Building+Futuristic+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img width="260" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF"/>
+  <img width="250" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me  
-🔥 Front-End Developer & CS Student passionate about crafting **futuristic UIs** and **smooth web apps**.  
-⚡ Skilled in **VueJS, JavaScript, CSS animations, Tailwind, and Nuxt**.  
-🎯 Lifelong learner, always experimenting with the **latest web tech**.  
-🌌 Believer in **creativity + code = magic**.  
+🔥 Front-End Developer & CS Student who loves building **beautiful UIs** and **futuristic web apps**.  
+🚀 Passionate about **VueJS, JavaScript, animations, and UI/UX magic**.  
+🎯 Always learning, experimenting, and pushing the limits of web tech.  
 
 ---
 
@@ -33,7 +32,7 @@
 
 ---
 
-### 🛠 Tech Stack (Neon Glow)
+### 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,sass,vue,nuxt,vuetify,tailwind,git,github,vscode,figma&theme=dark" />
 </p>
@@ -47,10 +46,10 @@
 
 ---
 
-### 🎶 Spotify (3D Mode)  
+### 🎶 Now Playing on Spotify  
 <p align="center">
   <a href="https://open.spotify.com/user/">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00f7ff&bar_color_cover=true" alt="Spotify Now Playing" width="450"/>
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
   </a>
 </p>
 
@@ -58,19 +57,19 @@
 
 ### ⚡ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
 
 ### 👀 Profile Views
 <p align="center">
-  <img src="https://profile-counter.glitch.me/abdallah-mohamed/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=abdallah-mohamed&style=for-the-badge&color=00FFF7"/>
 </p>
 
 ---
 
 <!-- 🌊 Futuristic Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=✨+Thanks+for+Visiting!+✨&animation=twinkling&fontColor=fff&fontAlign=50&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=✨+Thanks+for+Visiting!+✨&animation=twinkling&fontColor=fff&fontAlign=50&fontAlignY=40"/>
 </p>
