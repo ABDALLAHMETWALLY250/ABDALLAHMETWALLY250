@@ -1,117 +1,44 @@
-<!-- Futuristic Header -->
+
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+<h3 align="center">
+  Welcome to Abdallah Mohamed's Profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <img src="https://i.ibb.co/0n0xkTq/Glitch-Banner.gif" width="100%" alt="Glitch Banner"/>
-</p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00FFE0&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Abdallah+Mohamed;💻+Front-End+Developer;⚡+VueJS+%7C+JavaScript+%7C+CSS+Master;🚀+Always+Learning+New+Things" alt="Typing SVG"/>
-</h1>
+- 🏢 I'm a Software Engineer and Front End Developer and CS Student at Mansoura University
+- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with JavaScript, VueJS, HTML and CSS, or anything related to web development.
+- 👨‍💻 Check out my portfolio at https://abdallah-metwally.vercel.app/ to see some of the projects I've worked on.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="300"/>
-</p>
 
----
+### Connect with Me :
 
-### 👨‍💻 About Me  
-🔥 I’m a **Front-End Developer** and **CS Student @ Mansoura University**  
-⚡ Passionate about **VueJS, JavaScript, CSS animations, Tailwind, and UI frameworks**  
-🚀 Building **cool interactive web apps**  
-🎯 On a journey to become a **Full-Stack Wizard**  
+<a href="https://www.linkedin.com/in/abdallah-mohamed-5b9924224" target="_blank"><img src="https://img.shields.io/badge/-Abdallah%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/abdallah.metwally.925/" target="_blank"><img src="https://img.shields.io/badge/-Abdallah%20Mohamed-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+### 🛠 &nbsp;Tech Stack
 
----
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![BootStrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.Js-05122A?style=flat&logo=vue.js)&nbsp;
+![Vuetify](https://img.shields.io/badge/-Vuetify-05122A?style=flat&logo=vuetify)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdallah-mohamed-5b9924224" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/abdallah.metwally.925/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://abdallah-metwally.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
 
----
 
-### 🛠 Tech Arsenal  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,sass,vue,nuxt,vuetify,tailwind,git,github,vscode,figma,react,nodejs" />
-</p>
 
----
 
-### 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousefdergham&show_icons=true&theme=radical&count_private=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=yousefdergham&theme=radical&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdergham&layout=compact&theme=radical" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yousefdergham&theme=radical&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-### 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-### 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousefdergham&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-### 🌌 3D Contribution Calendar  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/profile-night-rainbow.svg" width="100%"/>
-</p>
-
----
-
-### 🎶 Now Playing on Spotify  
-<p align="center">
-  <a href="https://open.spotify.com/user/">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
-  </a>
-</p>
-
----
-
-### ⚡ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
-### 😂 Random Meme  
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="400"/>
-</p>
-
----
-
-### 🛰️ Fun Live Widgets
-- ⏳ Coding Time (Wakatime) → `coming soon`
-- 🌍 Weather Widget → `API powered`
-- 🎯 GitHub Achievements Badge → enabled  
-
----
-
-### 👀 Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge&color=red"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thanks+for+visiting!&fontAlign=50&fontAlignY=40&color=gradient&animation=twinkling&fontColor=fff"/>
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
+<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
+</a>
