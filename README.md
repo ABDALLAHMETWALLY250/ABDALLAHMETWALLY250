@@ -60,7 +60,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
 </p>
 
-
 ---
 
 <!-- 🌊 Futuristic Footer -->
