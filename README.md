@@ -22,6 +22,12 @@
 🎯 Lifelong learner, always experimenting with the **latest web tech**.  
 🌌 Believer in **creativity + code = magic**.  
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-%23FF4088?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VueJS-Enthusiast-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Always-Learning-%2300CFFF?style=for-the-badge&logo=readme&logoColor=white"/>
+</p>
+
 ---
 
 ### 🌐 Connect with Me
