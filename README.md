@@ -29,19 +29,46 @@
 
 ### 👨‍💻 About Me
 
-🔥 **Front-End Developer & CS Student** passionate about crafting **futuristic UIs** and **smooth web apps**.  
-⚡ Skilled in **VueJS, JavaScript, CSS animations, Tailwind, Nuxt**.  
-🎯 Lifelong learner, always experimenting with **latest web tech**.  
-🌌 Believer in **creativity + code = magic**.
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Coding"/>
 
-```typescript
-const abdallah = {
-  code: ["JavaScript", "TypeScript", "Vue", "Nuxt"],
-  currentlyLearning: "Advanced Vue Patterns & Three.js",
-  workingOn: "🔥 Building futuristic web experiences",
-  funFact: "I debug with console.log() and I'm proud of it 😎"
-};
+```javascript
+class Developer {
+  constructor() {
+    this.name = "Abdallah Metwally";
+    this.role = "Front-End Developer";
+    this.location = "Mansoura, Egypt 🇪🇬";
+    this.education = "CS Student @ Mansoura University";
+  }
+  
+  get skills() {
+    return {
+      languages: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
+      frameworks: ["Vue.js", "Nuxt.js", "Tailwind CSS"],
+      tools: ["Git", "VS Code", "Figma"],
+      passion: "Futuristic UI/UX Design ✨"
+    };
+  }
+  
+  get currentFocus() {
+    return [
+      "🚀 Advanced Vue.js Patterns & Composition API",
+      "🎨 Three.js & WebGL Animations",
+      "⚡ Performance Optimization",
+      "🌟 Building Engaging Web Experiences"
+    ];
+  }
+  
+  get lifePhilosophy() {
+    return "Creativity + Code = Magic 🌌";
+  }
+}
+
+const abdallah = new Developer();
 ```
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ABDALLAHMETWALLY250&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views"/>
+</p>
 
 ---
 
