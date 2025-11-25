@@ -5,9 +5,7 @@
 
 <!-- 🖋 Typing SVG Intro -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=💻+Front-End+Developer;🎓+CS+Student+%40+Mansoura+University;⚡+Vue+%7C+JS+%7C+CSS+Enthusiast;🚀+Always+Learning+%26+Building;🌐+Futuristic+UI%2FUX+Lover" alt="Typing SVG" />
-  </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&pause=1000&center=true&vCenter=true&width=435&lines=Abdallah+Mohamed+Metwally;%F0%9F%92%BBFront-End+Developer;%F0%9F%8E%93CS+Graduated+%40+Mansoura+University;%F0%9F%9A%80Always+Learning+%26+Building;%E2%9A%A1Vue+%7C+JS+%7C+CSS+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 <!-- Profile Views Counter -->
@@ -37,7 +35,7 @@ class Developer {
     this.name = "Abdallah Metwally";
     this.role = "Front-End Developer";
     this.location = "Mansoura, Egypt 🇪🇬";
-    this.education = "CS Student @ Mansoura University";
+    this.education = "CS Graduate @ Mansoura University";
   }
   
   get skills() {
@@ -45,7 +43,7 @@ class Developer {
       languages: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
       frameworks: ["Vue.js", "Nuxt.js", "Tailwind CSS"],
       tools: ["Git", "VS Code", "Figma"],
-      passion: "Futuristic UI/UX Design ✨"
+      passion: "Front-End Developer ✨"
     };
   }
   
