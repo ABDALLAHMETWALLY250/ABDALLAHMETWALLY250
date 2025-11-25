@@ -3,10 +3,13 @@
   <img src="https://i.ibb.co/0n0xkTq/Glitch-Banner.gif" width="100%" alt="Glitch Banner"/>
 </p>
 
-<!-- 🖋 Typing SVG Intro -->
+<!-- 🎭 Enhanced Typing Animation -->
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&pause=1000&center=true&vCenter=true&width=435&lines=Abdallah+Mohamed+Metwally;%F0%9F%92%BBFront-End+Developer;%F0%9F%8E%93CS+Graduated+%40+Mansoura+University;%F0%9F%9A%80Always+Learning+%26+Building;%E2%9A%A1Vue+%7C+JS+%7C+CSS+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Abdallah+Mohamed+Metwally;Front-End+Developer+%F0%9F%92%BB+%7C+CS+Graduate+%F0%9F%8E%93;Crafting+Futuristic+Web+Experiences+%E2%9C%A8" alt="Typing SVG" />
+  </a>
 </p>
+
 
 <!-- Profile Views Counter -->
 <p align="center">
