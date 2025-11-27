@@ -13,7 +13,6 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ABDALLAHMETWALLY250&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/ABDALLAHMETWALLY250?label=Followers&style=for-the-badge&color=00F7FF&labelColor=0D1117" alt="Followers"/>
 </p>
 
