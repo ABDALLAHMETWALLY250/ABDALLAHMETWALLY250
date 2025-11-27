@@ -61,11 +61,6 @@ class Developer {
 
 const abdallah = new Developer();
 ```
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ABDALLAHMETWALLY250&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views"/>
-</p>
-
 ---
 
 ### 🌐 Connect with Me
