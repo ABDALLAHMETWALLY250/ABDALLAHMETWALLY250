@@ -11,10 +11,6 @@
 </p>
 
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ABDALLAHMETWALLY250?label=Followers&style=for-the-badge&color=00F7FF&labelColor=0D1117" alt="Followers"/>
-</p>
 
 <!-- 🖥 Futuristic Developer Animation -->
 <p align="center">
