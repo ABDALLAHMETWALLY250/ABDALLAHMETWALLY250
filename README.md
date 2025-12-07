@@ -128,15 +128,7 @@ const abdallah = new Developer();
 
 ---
 
-### 🎯 2025 Goals
 
-- 🚀 Master Three.js & WebGL
-- 🎨 Build 10+ portfolio projects
-- 📱 Learn React Native
-- 🌟 Contribute to 5 open-source projects
-- 📚 Write 20 technical articles
-
----
 
 ### ⚡ Random Dev Quote
 
